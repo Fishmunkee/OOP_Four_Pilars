@@ -1,4 +1,4 @@
-# OOP_Four_Pillars ⛩
+# The Four Pillars of OOP ⛩
 
 P.S Pillars is spelt wrong in the repo name.
 
