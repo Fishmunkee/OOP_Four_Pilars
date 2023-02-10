@@ -18,7 +18,7 @@ P.S Pillars is spelt wrong in the repo name.
 ### Inheritance
 - Our Enemy class provides the method talk that can be reused and inherited by sub-classes.
 
-## Encapsulation
+### Encapsulation
 - Our Enemy class has a private int health (we don't want users to change this), so using getters and setters we can set and get health in the Main class.
 
 Thanks!
